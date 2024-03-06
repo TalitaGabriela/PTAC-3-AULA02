@@ -17,6 +17,6 @@
     transition: opacity 0.3s ease;
 }
 
-body:hover .rodape {
+body .rodape {
     opacity: 1;
 }

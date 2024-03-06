@@ -19,7 +19,7 @@ export default function Menu(){
                         <li>Registrar</li>
                     </Link>
                     <Link href="/localizacao">
-                        <li>Localizacao</li>
+                        <li>Localização</li>
                     </Link>
                 </ul>    
             </nav>
