@@ -1,6 +1,7 @@
 import Menu from "./components/Menu";
 import Footer from "./components/Footer";
 import styles from "./components/footer.module.css"
+//npm i pg-pool//
 
 export const metadata = {
   title: 'Create Next App',
