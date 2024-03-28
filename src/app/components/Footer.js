@@ -8,7 +8,7 @@ export default function Footer(){
             <Link href="https://ead.ifms.edu.br/">
             <Image 
             width={120}
-            height={80}
+            height={40}
             src={"https://ead.ifms.edu.br/theme/moove/pix/moodle-logo-white.png"}
             />
             </Link>

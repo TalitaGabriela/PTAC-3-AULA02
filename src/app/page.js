@@ -5,7 +5,9 @@ export default async function Home() {
   const resposta = await fetch(url,{
     next: {
       revalidate: 1
-    }
+    },
+    method: "GET",
+    headers:{'Content-Type':'apliccation/json'}
   });
 
   const campi = await resposta.json();
